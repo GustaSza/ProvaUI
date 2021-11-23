@@ -1,0 +1,88 @@
+.quadrosuperior {
+    width: 910px;
+    height: 1190px;
+    border: solid #f0f0f0 2px;
+    margin: 20px;
+}
+
+.quadrotopo {
+    width:  890px;
+    height: 250px;
+    border: solid #e40893 2px;
+    margin-top: 0px;
+    margin-left: 8px;
+    margin-bottom: 9px;
+}
+
+.quadroesquerda {
+    float: left;
+    display: block;
+    width: 523px;
+    height: 540px;
+    border: solid #ade1d2 2px;
+    margin-left: 9px;
+    margin-right: 4px;
+
+}
+
+.quadrodireita {
+    float: right;
+    width: 351px;
+    height: 540px;
+    border: solid #9dd0eb 2px;
+    margin-left: 4px;
+    margin-right: 9px;
+}
+
+.quadrobaixo {
+
+    width:  885px;
+    height: 280px;
+    border: solid #ff9938 2px;
+    margin-top: 562px;
+    margin-left: 8px;
+    margin-bottom: 9px;
+
+}
+
+.fonteglobal {
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-weight: bold;
+    line-height: 70px;
+    margin-left: 20px;
+    color: #f0f0f0;
+    font-size: xx-large
+
+}
+
+.fontetopo {
+    font-family:  'Times New Roman', Times, serif; font-weight: bold;
+    line-height: 250px;
+    margin-left: 20px;
+    color: #e40893;
+    font-size: xx-large;
+}
+
+.fonteconteudo {
+    font-family: 'Times New Roman', Times, serif; font-weight: bold;
+    line-height: 540px;
+    margin-left: 20px;
+    color: #ade1d2;
+    font-size: xx-large;
+}
+
+.fontemenu {
+    font-family:  'Times New Roman', Times, serif; font-weight: bold;
+    line-height: 540px;
+    margin-left: 20px;
+    color: #9dd0eb;
+    font-size: xx-large;
+}
+
+.fonterodape {
+    font-family:  'Times New Roman', Times, serif; font-weight: bold;
+    line-height: 280px;
+    margin-left: 20px;
+    color: #ff9938;
+    font-size: xx-large;
+}
